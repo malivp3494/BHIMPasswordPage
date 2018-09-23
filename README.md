@@ -1,2 +1,0 @@
-# BHIMPasswordPage
-Created with CodeSandbox
