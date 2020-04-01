@@ -1,5 +1,5 @@
 # Password UI
-Was playing around with ReactJS, this was result. 
+Was playing around with ReactJS and Material UI, this was result. 
 
 Demo is available on CodeSandbox [here](https://codesandbox.io/s/github/malivp3494/BHIMPasswordPage).
 
